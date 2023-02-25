@@ -1,0 +1,3 @@
+Use of write() function.My name is Madiha.
+Student at Aligarh Muslim University
+Final Year
